@@ -20,13 +20,17 @@ $(function() {
             $.ajax({
                 url: "https://api.web3forms.com/submit",
                 type: "POST",
-                data: {
+                headers: {
+                    "Accept": "application/json",
+                    "Content-Type": "application/json"
+                },
+                data: JSON.stringify({
                     name: name,
                     phone: phone,
                     email: email,
                     message: message,
                     access_key: "869bed29-c2d9-47ab-9d22-cb7630f3dded"
-                },
+                }),
                 cache: false,
                 success: function() {
                     // Success message
