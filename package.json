@@ -1,5 +1,5 @@
 {
-  "name": "dattaadvocates.com",
+  "name": "dattaadvocate.com",
   "version": "1.0.0",
   "description": "The main site for Datta Advocate.",
   "main": "gulpfile.js",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neeradatta/dattaadvocates.com.git"
+    "url": "git+https://github.com/neeradatta/dattaadvocate.com.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neeradatta/dattaadvocates.com/issues"
+    "url": "https://github.com/neeradatta/dattaadvocate.com/issues"
   },
-  "homepage": "https://github.com/neeradatta/dattaadvocates.com#readme"
+  "homepage": "https://github.com/neeradatta/dattaadvocate.com#readme"
 }
