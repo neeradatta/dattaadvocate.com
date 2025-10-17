@@ -3,7 +3,7 @@ title: Systems & Workflows
 subtitle: Advocacy
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2025-07-18
 img: 15.png
 thumbnail: 15.png
 alt: image-alt

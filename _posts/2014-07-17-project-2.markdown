@@ -3,7 +3,7 @@ title: Tools & Templates
 subtitle: Advocacy
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2025-07-17
 img: 17.png
 thumbnail: 17.png
 alt: image-alt

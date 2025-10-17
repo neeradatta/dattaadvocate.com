@@ -3,7 +3,7 @@ title: Individualized Education Plans
 subtitle: Advocacy
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2025-07-16
 img: 18.png
 thumbnail: 18.png
 alt: image-alt
