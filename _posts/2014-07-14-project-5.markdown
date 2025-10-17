@@ -4,10 +4,10 @@ subtitle: Advocacy
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
+img: 20.png
 thumbnail: 20.png
 alt: image-alt
-project-date: April 2014
+project-date: 2025
 client: Start Bootstrap
 category: Advocacy
 description: Coming Soon
