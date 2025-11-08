@@ -1,0 +1,6 @@
+/** Center timeline items */
+.timeline>li .timeline-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
