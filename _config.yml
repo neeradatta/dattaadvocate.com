@@ -13,12 +13,14 @@ people:
   pic: 1
   position: Lead Advocate
   social:
-    - title: twitter
-      url: #
+    - title: pinterest
+      url: "https://www.pinterest.com/dattaadvocates/"
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: "https://www.instagram.com/dattaadvocate/"
+    - title: instagram
+      url: "https://www.instagram.com/dattaadvocate/"
+    - title: bluesky
+      url: "https://bsky.app/profile/dattaadvocate.bsky.social"
 
 - name: Neera Datta
   pic: 2
@@ -28,8 +30,8 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: linkedin
-      url: #
+    - title: instagram
+      url: "https://www.instagram.com/dattaadvocate/"
 
 - name: Gunjan Datta
   pic: 3
@@ -39,15 +41,19 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
     url:
+  - title: pinterest
+    url: 
   - title: instagram
-    url:
+    url: "https://www.instagram.com/dattaadvocate/"
+  - title: bluesky
+    url: "https://bsky.app/profile/dattaadvocate.bsky.social"
 
 # Postal address (add as many lines as necessary)
 address:
